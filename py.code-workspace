@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../JS"
+		},
+		{
+			"path": "../Users/2class_9/Downloads/projection/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}
